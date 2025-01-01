@@ -1,25 +1,19 @@
-# Title
+# Energy Consumption Optimisation in households with a NILM-based Recommendation System
 
-**Type:** Master's Thesis / Bachelor's Thesis
+**Type:** Master's Thesis
 
-**Author:** xxx
+**Author:** Margarita Tavkazakova
 
-**Supervisor:** xxx (only if different from the 1st or the 2nd Examiner)
 
-**1st Examiner:** xxx 
+**1st Examiner:** Dr. Alona Zharova
 
-**2nd Examiner:** xxx 
+**2nd Examiner:** Prof. Dr. Stefan Lessmann
 
-[Insert here a figure explaining your approach or main results]
 
-![results](/result.png)
 
 ## Table of Content
 
 - [Summary](#summary)
-- [Working with the repo](#Working-with-the-repo)
-    - [Dependencies](#Dependencies)
-    - [Setup](#Setup)
 - [Reproducing results](#Reproducing-results)
     - [Training code](#Training-code)
     - [Evaluation code](#Evaluation-code)
@@ -29,64 +23,46 @@
 
 ## Summary
 
-(Short summary of motivation, contributions and results)
+This research advances efforts to mitigate global warming by developing and evaluating a NILM-based multi-agent recommendation system designed to optimize household appliance energy usage and enhance renewable energy integration. The system provides precise energy monitoring and actionable recommendations to lower energy costs and reduce environmental impact. The NILM model developed in this theis is based on the research conducted by Massidda et al. (2020). The methodologies for training and testing are adapted from the existing repository (https://github.com/lmssdd/TPNILM), which provides a framework for implementing the techniques discussed in the research.
 
-**Keywords**: xxx (give at least 5 keywords / phrases).
+The results showcase the system's ability to accurately identify appliances, deliver effective energy-saving recommendations, and significantly cut CO2 emissions, establishing a robust framework for promoting energy efficiency and renewable energy use, contributing  to global environmental sustainability efforts.
+Futhermore, the project includes successful application of transfer learning for improved model adaptability. 
 
-**Full text**: [include a link that points to the full text of your thesis]
-*Remark*: a thesis is about research. We believe in the [open science](https://en.wikipedia.org/wiki/Open_science) paradigm. Research results should be available to the public. Therefore, we expect dissertations to be shared publicly. Preferably, you publish your thesis via the [edoc-server of the Humboldt-Universität zu Berlin](https://edoc-info.hu-berlin.de/de/publizieren/andere). However, other sharing options, which ensure permanent availability, are also possible. <br> Exceptions from the default to share the full text of a thesis require the approval of the thesis supervisor.  
+**Keywords**: Non-Intrusive Load Monitoring (NILM), Energy Efficiency, Renewable Energy Integration, Recommendation System, Transfer Learning, CO2 Emission Reduction
 
-## Working with the repo
 
-### Dependencies
-
-Which Python version is required? 
-
-Does a repository have information on dependencies or instructions on how to set up the environment?
-
-### Setup
-
-[This is an example]
-
-1. Clone this repository
-
-2. Create an virtual environment and activate it
-```bash
-python -m venv thesis-env
-source thesis-env/bin/activate
-```
-
-3. Install requirements
-```bash
-pip install --upgrade pip
-pip install -r requirements.txt
-```
 
 ## Reproducing results
 
-Describe steps how to reproduce your results.
-
-Here are some examples:
-- [Paperswithcode](https://github.com/paperswithcode/releasing-research-code)
-- [ML Reproducibility Checklist](https://ai.facebook.com/blog/how-the-ai-community-can-get-serious-about-reproducibility/)
-- [Simple & clear Example from Paperswithcode](https://github.com/paperswithcode/releasing-research-code/blob/master/templates/README.md) (!)
-- [Example TensorFlow](https://github.com/NVlabs/selfsupervised-denoising)
 
 ### Training code
 
-Does a repository contain a way to train/fit the model(s) described in the paper?
+-NILM Model
+
+- Availability and Usage Agent
+
+-Transfer learning
 
 ### Evaluation code
 
-Does a repository contain a script to calculate the performance of the trained model(s) or run experiments on models?
+-Evaluate NILM
+
+- Evaluate Availability and Usage Agent
+
+- Evaluate transfer learning model
 
 ### Pretrained models
 
-Does a repository provide free access to pretrained model weights?
+You can download the pretrained model here:
 
 ## Results
+- NILM Model
 
-Does a repository contain a table/plot of main results and a script to reproduce those results?
+  
+- Availability and Usage Agent
+
+  
+- Transfer Learning Model 
 
 ## Project structure
 
