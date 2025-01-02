@@ -14,7 +14,7 @@
 ## Table of Content
 
 - [Summary](#summary)
-- [Run experiments](#Run experiments)
+- [Run experiments](#-Run-experiments)
 - [Results](#Results)
 - [Project structure](-Project-structure)
 
