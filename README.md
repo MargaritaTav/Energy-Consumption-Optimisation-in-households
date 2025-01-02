@@ -67,13 +67,13 @@ Use recommendation_output.ipynb:
 ## Results
 - NILM Model
 
-  ![alt text](image.png)
+![alt text](https://github.com/MargaritaTav/Energy-Consumption-Optimisation-in-households/blob/main/images/image.png?raw=true)
 
 - Availability and Usage Agent
-![alt text](image-1.png)
+![alt text](https://github.com/MargaritaTav/Energy-Consumption-Optimisation-in-households/blob/main/images/image-1.png?raw=true)
   
 - Transfer Learning Model 
-![alt text](image-2.png)
+![alt text](https://github.com/MargaritaTav/Energy-Consumption-Optimisation-in-households/blob/main/images/image-2.png?raw=true)
 ## Project structure
 
 
