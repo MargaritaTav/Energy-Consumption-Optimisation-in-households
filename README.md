@@ -14,10 +14,7 @@
 ## Table of Content
 
 - [Summary](#summary)
-- [Reproducing results](#Reproducing-results)
-    - [Training code](#Training-code)
-    - [Evaluation code](#Evaluation-code)
-    - [Pretrained models](#Pretrained-models)
+- [Run experiments](#Run experiments)
 - [Results](#Results)
 - [Project structure](-Project-structure)
 
